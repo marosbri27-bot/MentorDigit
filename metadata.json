@@ -1,0 +1,6 @@
+{
+  "name": "MentorAI",
+  "description": "Plataforma multi-tenant de tutoría educativa por IA con roles diferenciados para Administradores, Docentes y Estudiantes con gamificación RPG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
